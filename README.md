@@ -13,7 +13,7 @@
 |  硬盘1   |                   KINGSTON OM8PDP3256B-A01                   |
 | 硬盘2/3  |                    可接SATA 2.5寸硬盘/SSD                    |
 |   显卡   |                    Intel UHD Graphics 630                    |
-|  显示器  |                              无                              |
+|  显示器  |                 支持`3840x2160 4K@60Hz`双显                  |
 |   声卡   |                  Realtek ALC282 `alcid=21`                   |
 |   网卡   | m.2 NGFF插槽，已更换为[BCM94360Z4](https://blog.daliansky.net/uploads/WeChatandShop.png) |
 
