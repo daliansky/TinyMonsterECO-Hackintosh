@@ -7,7 +7,7 @@
 |   规格   |                           详细信息                           |
 | :------: | :----------------------------------------------------------: |
 | 电脑型号 |                       TinyMonster ECO                        |
-| 操作系统 |                        macOS Big Sur                         |
+| 操作系统 |                   macOS Big Sur / Monterey                   |
 |  处理器  |                  英特尔 酷睿 i7-8750H 6C12T                  |
 |   内存   |                        16 GB 2666MHz                         |
 |  硬盘1   |                   KINGSTON OM8PDP3256B-A01                   |
@@ -19,13 +19,14 @@
 
 ## 更新日志
 
+- 3-12-2022
+  - Release `v1.1.0`
+  - OpenCore `v0.7.8`
+  - 支持Monterey
 - 8-11-2021
-
   - Release `v1.1.0`
   - OpenCore `v0.7.1`
-
-  ##
-
+  
 - 5-20-2021
   
   - Release `v1.0.0`
