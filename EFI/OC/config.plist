@@ -188,7 +188,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.1 | Patch engine</string>
+                    <string>V1.6.3 | Patch engine</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -206,7 +206,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.9 | SMC emulator</string>
+                    <string>V1.3.1 | SMC emulator</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -224,7 +224,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.9 | SMC Sensor</string>
+                    <string>V1.3.1 | SMC Sensor</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -242,7 +242,7 @@
                     <key>BundlePath</key>
                     <string>SMCSuperIO.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.9 | SMC Sensor</string>
+                    <string>V1.3.1 | SMC Sensor</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -260,7 +260,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.5.8</string>
+                    <string>V1.6.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -278,7 +278,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.0 | Audio patches</string>
+                    <string>V1.7.6 | Audio patches</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -296,7 +296,7 @@
                     <key>BundlePath</key>
                     <string>AirportBrcmFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.1.5 | Brcm Airport Fixup</string>
+                    <string>V2.1.7 | Brcm Airport Fixup</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -368,7 +368,7 @@
                     <key>BundlePath</key>
                     <string>IntelMausi.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.7 | 英特尔I219-V7有线网卡</string>
+                    <string>V1.0.8 | 英特尔I219-V7有线网卡</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -402,27 +402,9 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>BundlePath</key>
-                    <string>AirportItlwm.kext</string>
-                    <key>Comment</key>
-                    <string>V2.1.0 | INTEL无线网卡WIFI</string>
-                    <key>Enabled</key>
-                    <false/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/AirportItlwm</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
                     <string>IntelBluetoothFirmware.kext</string>
                     <key>Comment</key>
-                    <string>V2.1.0 | INTEL无线网卡BT</string>
+                    <string>V2.3.0 | INTEL无线网卡BT</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -440,7 +422,7 @@
                     <key>BundlePath</key>
                     <string>IntelBluetoothInjector.kext</string>
                     <key>Comment</key>
-                    <string>V2.1.0 | INTEL无线网卡BT</string>
+                    <string>V2.3.0 | INTEL无线网卡BT</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -458,7 +440,7 @@
                     <key>BundlePath</key>
                     <string>BlueToolFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.2 | BT for BCM94360Z4/Z3/Intel</string>
+                    <string>V2.6.4 | BT for BCM94360Z4/Z3/Intel</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -476,7 +458,7 @@
                     <key>BundlePath</key>
                     <string>BrcmBluetoothInjector.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.2 | BT for BCM94360Z4/Z3</string>
+                    <string>V2.6.4 | BT for BCM94360Z4/Z3</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -494,7 +476,7 @@
                     <key>BundlePath</key>
                     <string>BrcmFirmwareData.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.2 | DW1820A/DW1560/DW1830</string>
+                    <string>V2.6.4 | DW1820A/DW1560/DW1830</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -512,7 +494,7 @@
                     <key>BundlePath</key>
                     <string>BrcmPatchRAM3.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.2 | DW1820A/DW1560/DW1830</string>
+                    <string>V2.6.4 | DW1820A/DW1560/DW1830</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -530,15 +512,15 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm_for_Monterey.kext</string>
                     <key>Comment</key>
-                    <string>V2.1.0</string>
+                    <string>V2.2.0</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/AirportItlwm</string>
                     <key>MaxKernel</key>
-                    <string></string>
+                    <string>21.99.99</string>
                     <key>MinKernel</key>
-                    <string></string>
+                    <string>21.00.00</string>
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
                 </dict>
@@ -548,15 +530,33 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm_for_BigSur.kext</string>
                     <key>Comment</key>
-                    <string>V2.1.0</string>
+                    <string>V2.2.0</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
+                    <key>ExecutablePath</key>
+                    <string>Contents/MacOS/AirportItlwm</string>
+                    <key>MaxKernel</key>
+                    <string>20.99.99</string>
+                    <key>MinKernel</key>
+                    <string>20.00.00</string>
+                    <key>PlistPath</key>
+                    <string>Contents/Info.plist</string>
+                </dict>
+                <dict>
+                    <key>Arch</key>
+                    <string>Any</string>
+                    <key>BundlePath</key>
+                    <string>AirportItlwm_for_Ventura.kext</string>
+                    <key>Comment</key>
+                    <string>V2.2.0</string>
+                    <key>Enabled</key>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/AirportItlwm</string>
                     <key>MaxKernel</key>
                     <string></string>
                     <key>MinKernel</key>
-                    <string></string>
+                    <string>22.00.00</string>
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
                 </dict>
@@ -590,6 +590,8 @@
                 <false/>
                 <key>AppleXcpmForceBoost</key>
                 <false/>
+                <key>CustomPciSerialDevice</key>
+                <false/>
                 <key>CustomSMBIOSGuid</key>
                 <false/>
                 <key>DisableIoMapper</key>
@@ -601,6 +603,8 @@
                 <key>ExtendBTFeatureFlags</key>
                 <false/>
                 <key>ExternalDiskIcons</key>
+                <false/>
+                <key>ForceAquantiaEthernet</key>
                 <false/>
                 <key>ForceSecureBootScheme</key>
                 <false/>
@@ -652,13 +656,13 @@
                 <key>LauncherPath</key>
                 <string>Default</string>
                 <key>PickerAttributes</key>
-                <integer>17</integer>
+                <integer>145</integer>
                 <key>PickerAudioAssist</key>
                 <false/>
                 <key>PickerMode</key>
                 <string>External</string>
                 <key>PickerVariant</key>
-                <string>DalianSky\Modern</string>
+                <string>DalianSky\MinisForum</string>
                 <key>PollAppleHotKeys</key>
                 <true/>
                 <key>ShowPicker</key>
@@ -680,8 +684,8 @@
                 <integer>0</integer>
                 <key>DisplayLevel</key>
                 <integer>2147483650</integer>
-                <key>SerialInit</key>
-                <false/>
+                <key>LogModules</key>
+                <string></string>
                 <key>SysReport</key>
                 <false/>
                 <key>Target</key>
@@ -710,12 +714,8 @@
             </array>
             <key>Security</key>
             <dict>
-                <key>AllowNvramReset</key>
-                <true/>
                 <key>AllowSetDefault</key>
                 <true/>
-                <key>AllowToggleSip</key>
-                <false/>
                 <key>ApECID</key>
                 <integer>0</integer>
                 <key>AuthRestart</key>
@@ -741,6 +741,40 @@
                 <key>Vault</key>
                 <string>Optional</string>
             </dict>
+            <key>Serial</key>
+            <dict>
+                <key>Custom</key>
+                <dict>
+                    <key>BaudRate</key>
+                    <integer>115200</integer>
+                    <key>ClockRate</key>
+                    <integer>1843200</integer>
+                    <key>DetectCable</key>
+                    <false/>
+                    <key>ExtendedTxFifoSize</key>
+                    <integer>64</integer>
+                    <key>FifoControl</key>
+                    <integer>7</integer>
+                    <key>LineControl</key>
+                    <integer>3</integer>
+                    <key>PciDeviceInfo</key>
+                    <data>/w==</data>
+                    <key>RegisterAccessWidth</key>
+                    <integer>8</integer>
+                    <key>RegisterBase</key>
+                    <integer>1016</integer>
+                    <key>RegisterStride</key>
+                    <integer>1</integer>
+                    <key>UseHardwareFlowControl</key>
+                    <false/>
+                    <key>UseMmio</key>
+                    <false/>
+                </dict>
+                <key>Init</key>
+                <false/>
+                <key>Override</key>
+                <false/>
+            </dict>
             <key>Tools</key>
             <array>
                 <dict>
@@ -754,6 +788,8 @@
                     <true/>
                     <key>Flavour</key>
                     <string>Auto</string>
+                    <key>FullNvramAccess</key>
+                    <false/>
                     <key>Name</key>
                     <string>CFGLock</string>
                     <key>Path</key>
@@ -774,6 +810,8 @@
                     <true/>
                     <key>Flavour</key>
                     <string>Auto</string>
+                    <key>FullNvramAccess</key>
+                    <false/>
                     <key>Name</key>
                     <string>MmapDump</string>
                     <key>Path</key>
@@ -794,6 +832,8 @@
                     <true/>
                     <key>Flavour</key>
                     <string>Auto</string>
+                    <key>FullNvramAccess</key>
+                    <false/>
                     <key>Name</key>
                     <string>modGRUBShell</string>
                     <key>Path</key>
@@ -814,6 +854,8 @@
                     <true/>
                     <key>Flavour</key>
                     <string>Auto</string>
+                    <key>FullNvramAccess</key>
+                    <false/>
                     <key>Name</key>
                     <string>OpenShell</string>
                     <key>Path</key>
@@ -834,6 +876,8 @@
                     <true/>
                     <key>Flavour</key>
                     <string>Auto</string>
+                    <key>FullNvramAccess</key>
+                    <false/>
                     <key>Name</key>
                     <string>ControlMsrE2</string>
                     <key>Path</key>
@@ -849,19 +893,14 @@
         <dict>
             <key>Add</key>
             <dict>
-                <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
-                <dict>
-                    <key>rtc-blacklist</key>
-                    <data></data>
-                </dict>
                 <key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
                 <dict>
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>-v alcverbs=1 alcid=21 debug=0x100 brcmfx-country=#a brcmfx-aspm</string>
+                    <string>alcverbs=1 alcid=21 debug=0x100 brcmfx-country=#a brcmfx-aspm -lilubetaall</string>
                     <key>csr-active-config</key>
-                    <data>AAAAAA==</data>
+                    <data>7w8AAA==</data>
                     <key>prev-lang:kbd</key>
                     <data></data>
                     <key>run-efi-updater</key>
@@ -884,8 +923,6 @@
                     <string>boot-args</string>
                 </array>
             </dict>
-            <key>LegacyEnable</key>
-            <false/>
             <key>LegacyOverwrite</key>
             <false/>
             <key>LegacySchema</key>
@@ -972,9 +1009,9 @@
                 <key>JumpstartHotPlug</key>
                 <false/>
                 <key>MinDate</key>
-                <integer>0</integer>
+                <integer>-1</integer>
                 <key>MinVersion</key>
-                <integer>0</integer>
+                <integer>-1</integer>
             </dict>
             <key>AppleInput</key>
             <dict>
@@ -1035,6 +1072,8 @@
                     <string></string>
                     <key>Enabled</key>
                     <true/>
+                    <key>LoadEarly</key>
+                    <false/>
                     <key>Path</key>
                     <string>HfsPlus.efi</string>
                 </dict>
@@ -1045,6 +1084,8 @@
                     <string></string>
                     <key>Enabled</key>
                     <true/>
+                    <key>LoadEarly</key>
+                    <false/>
                     <key>Path</key>
                     <string>OpenRuntime.efi</string>
                 </dict>
@@ -1055,6 +1096,8 @@
                     <string></string>
                     <key>Enabled</key>
                     <true/>
+                    <key>LoadEarly</key>
+                    <false/>
                     <key>Path</key>
                     <string>OpenCanopy.efi</string>
                 </dict>
@@ -1065,6 +1108,8 @@
                     <string></string>
                     <key>Enabled</key>
                     <true/>
+                    <key>LoadEarly</key>
+                    <false/>
                     <key>Path</key>
                     <string>CrScreenshotDxe.efi</string>
                 </dict>
