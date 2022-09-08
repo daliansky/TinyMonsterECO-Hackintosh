@@ -19,6 +19,10 @@
 
 ## 更新日志
 
+- 9-8-2022
+  - OpenCore `v0.8.4`
+  - 支持 `Ventura`
+  
 - 3-12-2022
   - Release `v1.1.0`
   - OpenCore `v0.7.8`
@@ -26,9 +30,8 @@
 - 8-11-2021
   - Release `v1.1.0`
   - OpenCore `v0.7.1`
-  
 - 5-20-2021
-  
+
   - Release `v1.0.0`
   - OpenCore `v0.6.9`
 
